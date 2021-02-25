@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RectangleLayout">
+        <attr name="radiusTopLeft" format="dimension" />
+        <attr name="radiusTopRight" format="dimension" />
+        <attr name="radiusBottomLeft" format="dimension" />
+        <attr name="radiusBottomRight" format="dimension" />
+        <attr name="radius" format="dimension" />
+        <attr name="backgroundColor" format="color" />
+    </declare-styleable>
+</resources>

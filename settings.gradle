@@ -1,2 +1,3 @@
+include ':androgeom'
 include ':app'
 rootProject.name = "android.library.geom"
