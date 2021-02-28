@@ -11,7 +11,7 @@ TODO : Will publish this library to public maven repository
 Here are current geometry objects available to use
 
 #### 1. RectangleLayout
-Inhering ConstraintLayout with addition in full control of radius and custom background color. Note: for background color, use `app:backgroundColor` instead of `android:backgroundColor`.
+Inherit ConstraintLayout with addition in full control of radius and custom background color. Note: for background color, use `app:backgroundColor` instead of `android:backgroundColor`.
 ##### How to use
 Simply add RectangleLayout to your layout viewport precisely the same with ConstraintLayout. Just replace `ConstraintLayout` with `com.otnieldocs.androgeom.RectangleLayout`
 
